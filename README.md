@@ -1,16 +1,75 @@
-## Hi there 👋
+# Hi there, I'm Khuzaivan 👋
 
-<!--
-**Khuzaivan/Khuzaivan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Information Systems Student at Telkom University
 
-Here are some ideas to get you started:
+💡 Passionate about Data Science, Machine Learning, Artificial Intelligence, and Web Development.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🚀 About Me
+
+- 📚 Currently studying Information Systems (D3)
+- 🤖 Interested in Data Science & Machine Learning
+- 🌱 Currently learning Python, Scikit-Learn, Flask, and Laravel
+- 💻 Building Machine Learning & Web Development projects
+- 🎯 Looking for opportunities to grow as a Data Scientist
+
+---
+
+## 🛠️ Tech Stack
+
+### Programming Languages
+
+- Python
+- PHP
+- SQL
+- JavaScript
+- HTML
+- CSS
+
+### Frameworks
+
+- Flask
+- Laravel
+
+### Databases
+
+- MySQL
+- MariaDB
+
+### Tools
+
+- Git
+- GitHub
+- VS Code
+- Figma
+
+---
+
+## 🚀 Featured Projects
+
+### 📱 SmartPhone Guard
+
+Machine Learning-based web application for early detection of smartphone addiction using Flask and Scikit-Learn.
+
+🔗 https://github.com/Khuzaivan/SmartPhone-Guard
+
+---
+
+### 🛍️ Motifnesia
+
+Modern E-Commerce Website for Indonesian Batik built with Laravel.
+
+🔗 https://github.com/Khuzaivan/Motifnesia
+
+---
+
+## 📫 Connect with Me
+
+- GitHub: https://github.com/Khuzaivan
+- LinkedIn: *(Coming Soon)*
+- Email: *(Your Email)*
+
+---
+
+⭐ Thanks for visiting my profile!
