@@ -67,9 +67,7 @@ Modern E-Commerce Website for Indonesian Batik built with Laravel.
 ## 📫 Connect with Me
 
 - GitHub: https://github.com/Khuzaivan
-- LinkedIn: *(Coming Soon)*
-- Email: *(Your Email)*
-
+- Email: khuzaivan24@gmail.com
 ---
 
 ⭐ Thanks for visiting my profile!
